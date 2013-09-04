@@ -26,7 +26,7 @@
 # the TubeTK source directory.
 ##############################################################################
 
-set( SITE_NAME "Ginger.Aylward.Org" )
+set( SITE_NAME "PABLO.PICASSO.Org" )
 set( SITE_PLATFORM "Windows7-VS2010-64" )
 set( SITE_BUILD_TYPE "Release" )
 set( SITE_CMAKE_GENERATOR "Visual Studio 10 Win64" )
